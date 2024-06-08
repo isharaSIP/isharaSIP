@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ishara-senarath-043722229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishara senarath" height="30" width="40" /></a>
-<a href="https://fb.com/ishara p senarath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishara p senarath" height="30" width="40" /></a>
-<a href="https://instagram.com/s._ishara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s._ishara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008249402316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishara p senarath" height="30" width="40" /></a>
+<a href="https://www.instagram.com/s._ishara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s._ishara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
